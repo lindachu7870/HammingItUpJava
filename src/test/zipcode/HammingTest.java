@@ -1,7 +1,7 @@
 package zipcode;
 
 import org.junit.Rule;
-import org.junit.Test;
+import org.testng.annotations.Test;
 import org.junit.rules.ExpectedException;
 import zipcode.Hamming;
 
